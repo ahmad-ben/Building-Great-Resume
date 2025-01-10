@@ -1,0 +1,107 @@
+Resume Sections:
+  Necessary:
+    Skills -Technical Skills-.
+    Experience -If Exist-.
+    Projects -The Best You Have-.
+    Education -The Last Education Experience-.
+  Optional:
+    Awards and Certificates Section.
+    Personal interest -Hobbies-.
+Skills Section Guidances:
+  Avoid qualifiers like -beginner- or -intermediate-.
+    Instead just put them in an order from the from the most proficient to the least. 
+  It can be putted in the top of your resume.
+  List technical skills like programming languages and tools.
+  How this section helps yu:
+    Can help you pass from the ATS.
+    Gives the Recruiter and Hiring Manager an idea about: 
+      Your skills.
+      If you match the job requirements.
+Experience Section Guidances:
+  Each work experience should contains couple of bullet points.
+    These bullet points should follow the Bullet Points Instructions in the bottom.
+  Internships can be considered as a work experience.
+Projects Section Guidances:
+  Each project should contains couple of bullet points.
+    These bullet points should follow the Bullet Points Instructions in the bottom.
+  Add details about each project, like:
+    Project Descriptions.
+    Your role and what you did. 
+    Technologies used.
+  Showcase impactful personal, class, or open-source projects.
+Education Section Guidances:
+  Usually you need to add the Last education experience with the finish date only.
+Awards and Certifications Section Guidances:
+  List relevant achievements, research, certifications, and training.  
+Personal interest Section Guidances:
+  Avoid it unless it's relevant to the job offer.
+Bullet Points Instructions:
+  Talk about yourself, not the company or the team.
+  Highlight challenges, actions, and impacts using action verbs.  
+  Use Metrics and Numbers -quantifiable achievements-, usually in the IMPACT part:
+    500 Users, +90%, ect.
+  Include technical details to show your scope and challenges.
+    Showing your problem solving skills, by highting specific problems and how you solve them.
+  After reading each bullet point make sure that you answer the question of `So What`.
+  Each work experience should answer the following questions:
+    What did you do?
+    How did you do it?
+    What was the result?
+  Try to follow the following flow:
+    USED X TO ACCOMPLISH Y THAT HAD Z IMPACT/RESULT.
+      USED will be changed with some action verbs like:
+        Developed, Engineered, Implemented, Optimized, Built, Led, Increased...
+      In each project whatever its type, Personal, Open Source, Company Project, Freelance.
+  Providing a link to the projects if possible.
+  In the end of each project you can list the languages and the technologies you use.
+General Guidances:
+  Personal Info:
+    Like:
+      Name, Email, Number, LinkedIn & Github account.
+    Should be in the top with a bold style differentiates them from the other content.
+  Sections Ordering:
+    There is no sections ordering for all:
+      Start with the most impressive aspect of your profile, for example: 
+        Skills, experience, or projects.
+  Resume Shape:
+    Colors:
+      Stay in the standard area, usually just white and black it's enough.
+    Try to keep the same format in all the sections you have if possible.
+      Same spacing and formatting.
+    Use proficient fonts, like:
+      Arial, Calibri, Times new roman.
+    Use a test size easy to read:
+      10 to 12.
+    Use bullet points.
+    Bold some important information is fine, but avoid using this technique a lot.
+      If everything is bold, nothing is bold.
+  Along with Resume Writing you should build it also:
+    Resumes are built over time through meaningful experiences and projects. 
+      Focus on developing skills and achievements to enhance your resume.
+    Building resume by:
+      Participate in Hackathones.
+      Contribute to Open Source.
+      Build Personal Projects.
+      Learn new skills.
+      etc.
+  Always customize your resume to math the job description.
+  Resume long:
+    If you have less than 5 years of experience, one page is very enough.
+    If you have more than 5 years of experience, you can go between one to two pages.
+  Instead of writing your soft skills, try to show them in your sections.
+Things To Avoid:
+  Copy-pasting old templates or others resumes.
+  Including irrelevant or outdated information.
+  Overloading the resume -less is often more-.
+  Grammar error.
+  Long paragraph, instead use Bullet Points.
+How read your resume:
+  Resume Filters, also called Applicant tracking system -ATS-: 
+    Filters resumes using keywords and skills from job descriptions.  
+    Use ATS-friendly formats and optimize with relevant keywords.  
+    Use keywords from the job description. 
+  Recruiters: 
+    Focus on the top part of the resume to grab their attention quickly.
+  Hiring Managers: 
+    Emphasize impressive projects or experience.
+    Focus on showcasing job-relevant experience and accomplishments.
